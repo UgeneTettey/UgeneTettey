@@ -15,7 +15,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
   <!-- Medium -->
   <a href="https://medium.com/@dsipe_" target="_blank" rel="noreferrer">
-    <img src="assets/icons/medium-new.png" alt="Medium" width="35" />
+    <img src="assets/icons/medium3new.png" alt="Medium" width="35" />
   </a>
 
 <!-- Instagram(DSiPE page) -->
