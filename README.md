@@ -10,24 +10,23 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/eugene-tettey" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" />
   </a>
 
   <!-- Medium -->
   <a href="https://medium.com/@dsipe_" target="_blank" rel="noreferrer">
-    <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
+    <img src="assets/icons/medium-new.png" alt="Medium" width="35" />
   </a>
 
-<!-- X (formerly Twitter) -->
-  <!-- X (formerly Twitter) -->
-  <a href="https://x.com/eugene_tettey" target="_blank" rel="noreferrer">
-    <img src="assets/icons/X.png" alt="X" width="40" />
+<!-- Instagram(DSiPE page) -->
+  <a href="https://www.instagram.com/dsipe_/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/instagram.png" alt="IG" width="35" />
   </a>
 
 
   <!-- Email -->
   <a href="mailto:ugeneayerkain@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" />
   </a>
 </p>
 
